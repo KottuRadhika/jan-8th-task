@@ -1,0 +1,26 @@
+body{
+    background-color: moccasin;
+}
+.box{
+    position: relative;
+    width:1220px;
+    height:100px;
+    background-color: cornflowerblue;
+    
+}
+.box1{
+    position: relative;
+    width:1220px;
+    height:150px;
+    background-color: cornflowerblue;
+    
+}
+ul:hover{
+    text-decoration: underline;
+}
+li{
+    color: cornsilk;
+}
+.img1{
+    margin-right: 50px;
+}

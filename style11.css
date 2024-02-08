@@ -1,0 +1,13 @@
+body{
+    background-color: burlywood;
+}
+.img1{
+    margin-left: 20px;
+    margin-right: 20px;
+    width:30%;
+    height:60%;
+}
+.para{
+    margin-left: 40px;
+    margin-right: 20px;
+}

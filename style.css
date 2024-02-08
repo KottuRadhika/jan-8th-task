@@ -1,0 +1,454 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/06/26/13/062613231a04bcea7bdbe83a8ad1c63c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+
+    width:auto;
+    height:50px;
+    text-decoration:inherit;
+    color:red;
+    animation:header 5s  linear infinite;    
+}
+@keyframes header{
+    0%{opacity:0.5;color:green;}
+    20%{opacity:0.7;color:black;}
+    40%{opacity:0.8;color:palevioletred;}
+    60%{opacity:0.10;color:maroon;}
+    80%{opacity:0.9;color:darkred;}
+    100%{opacity:0.6;color:darkslateblue;}
+}
+.shape{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://images.meesho.com/images/products/67860715/t3or0_512.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages 5s infinite alternate;
+}
+@keyframes changingimages{
+    25%{background-image: url("https://i.pinimg.com/474x/4b/95/7a/4b957a61e0892961b0ac8dd03ad97d71.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://5.imimg.com/data5/ND/TT/EA/SELLER-93048433/western-wear-top.jpeg");left:30px;top:40px;}
+    75%{background-image: url("https://www.wholesaletextile.in/product-img/Blue-Hills-Sofia-Latest-Wester-1683971595.jpeg");left:60px;top:10px;}
+    
+}
+.shape1{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://i.pinimg.com/originals/aa/5f/7e/aa5f7eda5d7721719438ef97b11ad30d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages1 5s infinite alternate;
+}
+@keyframes changingimages1{
+    25%{background-image: url("https://i.pinimg.com/originals/aa/5f/7e/aa5f7eda5d7721719438ef97b11ad30d.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://i.pinimg.com/236x/2e/4b/8d/2e4b8d493b95ac930e45664efa1a9461.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://assets.ajio.com/medias/sys_master/root/20230623/S9q4/6494dcad42f9e729d780d6c6/-1117Wx1400H-464498909-orange-MODEL.jpg");left:60px;top:10px;}
+    
+}
+.shape2{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://www.shutterstock.com/image-photo/fashion-woman-attractive-yellow-girl-260nw-2341499943.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages2 5s infinite alternate;
+}
+@keyframes changingimages2{
+    25%{background-image: url("https://www.shutterstock.com/image-photo/fashion-woman-attractive-yellow-girl-260nw-2341499943.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://www.stylecraze.com/wp-content/uploads/2018/01/50-Fashion-Tips-Every-Girl-Should-Know.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://static.vecteezy.com/system/resources/thumbnails/024/903/858/small/beautiful-women-in-fashionable-clothing-exude-elegance-generated-by-ai-free-photo.jpg");left:60px;top:10px;}
+    
+}
+.shape3{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://3.imimg.com/data3/KM/OA/MY-19006716/fancy-ladies-footwear.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages3 5s infinite alternate;
+}
+@keyframes changingimages3{
+    25%{background-image: url("https://3.imimg.com/data3/KM/OA/MY-19006716/fancy-ladies-footwear.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://m.media-amazon.com/images/I/811kU-P5PCL._AC_UY1000_.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://images.hindustantimes.com/img/2022/12/22/1600x900/istockphoto-1279108197-170667a_1671687926903_1671687937504_1671687937504.jpg");left:60px;top:10px;}
+    
+}
+.shape4{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhP-o5qu9FOF1gcezIlqdI7m1e6_93JbOKsslkLvFA3yuXEWYA7Vb8B4mDFmfYjRL4L_k8m5dzETjNcUYgq8UBoax5JHGTm8xlC6QS6Bc0R7oGyll_5xu6QJ4");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages4 5s infinite alternate;
+}
+@keyframes changingimages4{
+    25%{background-image: url("https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhP-o5qu9FOF1gcezIlqdI7m1e6_93JbOKsslkLvFA3yuXEWYA7Vb8B4mDFmfYjRL4L_k8m5dzETjNcUYgq8UBoax5JHGTm8xlC6QS6Bc0R7oGyll_5xu6QJ4");left:50px;top:20px;}
+    50%{background-image: url("https://images.ctfassets.net/66mrrren2unf/78Wz0KV0F1veU2GdC1g1jp/e838ecd547ebcf8e5d731a05027eefa4/web.gif?q=40");left:30px;top:40px;}
+    75%{background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOkXV7WbXjS2MDqgDqgNx7cgNp-iBCXTuqP77aoz0nKF09-DoOU-GMLUa2VdS5Ig4NPg&usqp=CAU");left:60px;top:10px;}
+    
+}
+.shape5{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://images.bestsellerclothing.in/data/selected/10-jan-2024/157578705_1.jpg?width=520&height=650&mode=fill&fill=blur&format=auto");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages5 5s infinite alternate;
+}
+@keyframes changingimages5{
+    25%{background-image: url("https://images.bestsellerclothing.in/data/selected/10-jan-2024/157578705_1.jpg?width=520&height=650&mode=fill&fill=blur&format=auto");left:50px;top:20px;}
+    50%{background-image: url("https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQLeofuXmOqKyFnFjggY1BMIeN4C9Cftl97ou_Ta57fIksA-CRDq3imnBbJBUFzQ1Z-JyS3hXDVZyLmxnuMDCcnvLoEOEttghy-VpgkDQ");left:30px;top:40px;}
+    75%{background-image: url("https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ2KeXAKrk0T0mlKuSiviSH5tBI1MXzU2WA5Bf7pvY8XOJjQjQrsTpE3xusF2nglqjKiNgtYOe6UVR35h-npZu0Es6ppJV5PQ");left:60px;top:10px;}
+    
+}
+.shape6{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://5.imimg.com/data5/TG/DN/MY-37294786/designer-artificial-jewellery.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages6 5s infinite alternate;
+}
+@keyframes changingimages6{
+    25%{background-image: url("https://5.imimg.com/data5/TG/DN/MY-37294786/designer-artificial-jewellery.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://m.media-amazon.com/images/I/81aUa3LrDzL._AC_UY1100_.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://www.orra.co.in/media/catalog/product/cache/a062e776095ada03f265202079309f18/o/s/osn17032_1.jpg");left:60px;top:10px;}
+    
+}
+.shape7{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://m.media-amazon.com/images/I/51bTrIelgmL._SX300_SY300_QL70_FMwebp_.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages7 5s infinite alternate;
+}
+@keyframes changingimages7{
+    25%{background-image: url("https://m.media-amazon.com/images/I/51bTrIelgmL._SX300_SY300_QL70_FMwebp_.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://m.media-amazon.com/images/I/41EIIrMLwLL._SX300_SY300_QL70_FMwebp_.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://m.media-amazon.com/images/I/81p9MQ1eWJL._AC_UF894,1000_QL80_.jpg");left:60px;top:10px;}
+    
+}
+h1{
+
+    width:auto;
+    height:50px;
+    text-decoration:inherit;
+    color:red;
+    animation:header1 5s  linear infinite;    
+}
+@keyframes header1{
+    0%{opacity:0.5;color:green;}
+    20%{opacity:0.7;color:black;}
+    40%{opacity:0.8;color:palevioletred;}
+    60%{opacity:0.10;color:maroon;}
+    80%{opacity:0.9;color:darkred;}
+    100%{opacity:0.6;color:darkslateblue;}
+}
+header{
+    background-color: palevioletred;
+}
+.shape8{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://5.imimg.com/data5/HK/RG/KU/ANDROID-93818736/product-jpeg-500x500.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages8 5s infinite alternate;
+}
+@keyframes changingimages8{
+    25%{background-image: url("https://5.imimg.com/data5/HK/RG/KU/ANDROID-93818736/product-jpeg-500x500.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://www.bigbasket.com/media/uploads/p/xxl/40237093-2_1-saffola-gold-refined-cooking-oil-blend-of-rice-bran-sunflower-oil-helps-keeps-heart-healthy.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://asset20.ckassets.com/blog/wp-content/uploads/sites/5/2021/11/Dhara.jpg");left:60px;top:10px;}
+    
+}
+.shape9{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://m.media-amazon.com/images/I/71eJAaD6aBL._AC_UF1000,1000_QL80_.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages9 5s infinite alternate;
+}
+@keyframes changingimages9{
+    25%{background-image: url("https://m.media-amazon.com/images/I/71eJAaD6aBL._AC_UF1000,1000_QL80_.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://m.media-amazon.com/images/I/615YWeUednL._AC_UF1000,1000_QL80_.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgTKXCjntGlL0TSryesxtXMpUOdCtCXd3C3A&usqp=CAU");left:60px;top:10px;}
+    
+}
+.shape10{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://www.bigbasket.com/media/uploads/p/l/10000148_32-fresho-onion.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages10 5s infinite alternate;
+}
+@keyframes changingimages10{
+    25%{background-image: url("https://www.bigbasket.com/media/uploads/p/l/10000148_32-fresho-onion.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://5.imimg.com/data5/YF/QE/MY-12687905/green-chilli.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://5.imimg.com/data5/ANDROID/Default/2022/11/JN/JT/WQ/143656523/product-jpeg-500x500.jpg");left:60px;top:10px;}
+    
+}
+.shape11{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://5.imimg.com/data5/SELLER/Default/2022/3/JM/MM/TB/80377860/ponds-face-cream-500x500.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages11 5s infinite alternate;
+}
+@keyframes changingimages11{
+    25%{background-image: url("https://5.imimg.com/data5/SELLER/Default/2022/3/JM/MM/TB/80377860/ponds-face-cream-500x500.jpeg");left:50px;top:20px;}
+    50%{background-image: url("https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/2472301/2022/6/30/ed041d1c-4e72-4e7e-ba6a-3ef573d4ecf11656588475326Lakme9to5SPF30ComplexionCareCream-Beige9g1.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://5.imimg.com/data5/SELLER/Default/2021/6/XG/AG/BT/31067160/white-tone-soft-smooth-face-cream-500x500.jpg");left:60px;top:10px;}
+    
+}
+.shape12{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://www.bigbasket.com/media/uploads/p/l/40078018-5_1-nivea-men-creme-non-greasy-moisturizer-cream-for-face-body-hands.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages12 5s infinite alternate;
+}
+@keyframes changingimages12{
+    25%{background-image: url("https://www.bigbasket.com/media/uploads/p/l/40078018-5_1-nivea-men-creme-non-greasy-moisturizer-cream-for-face-body-hands.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://5.imimg.com/data5/SELLER/Default/2020/12/WO/NN/IG/15680472/x-men-face-cream-500x500.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://ponds.in/cdn/shop/products/Oilclear-HeroImage.jpg?v=1674647042");left:60px;top:10px;}
+    
+}
+.shape13{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://www.justgotochef.com/img/1522751768-Tata-Salt-Front.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages13 5s infinite alternate;
+}
+@keyframes changingimages13{
+    25%{background-image: url("https://www.justgotochef.com/img/1522751768-Tata-Salt-Front.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://tse3.mm.bing.net/th?id=OIP.slj4EF3hwY17gpojysWVMgHaHa&pid=Api&P=0&h=180");left:30px;top:40px;}
+    75%{background-image: url("https://www.aachifoods.com/data/products/kashmiri-chilli-powder-1651833964-1.jpeg");left:60px;top:10px;}
+    
+}
+.shape14{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://4.imimg.com/data4/QD/OP/MY-310912/jeera.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages14 5s infinite alternate;
+}
+@keyframes changingimages14{
+    25%{background-image: url("https://4.imimg.com/data4/QD/OP/MY-310912/jeera.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://tse4.mm.bing.net/th?id=OIP.0FlLaqjyX6J0oUhNs5iOOwHaLA&pid=Api&P=0&h=180");left:30px;top:40px;}
+    75%{background-image: url("https://tse1.mm.bing.net/th?id=OIP.w25b6ij54DBeZEbBjeCAuwHaLH&pid=Api&rs=1&c=1&qlt=95&w=77&h=116");left:60px;top:10px;}
+    
+}
+.shape15{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.KaEucM9OPPb6c9iYVar5UgHaJZ&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages15 5s infinite alternate;
+}
+@keyframes changingimages15{
+    25%{background-image: url("https://tse2.mm.bing.net/th?id=OIP.KaEucM9OPPb6c9iYVar5UgHaJZ&pid=Api&P=0&h=180");left:50px;top:20px;}
+    50%{background-image: url("https://marhabaworld.com/wp-content/uploads/2021/11/product_template_1283.jpeg");left:30px;top:40px;}
+    75%{background-image: url("https://tse2.mm.bing.net/th?id=OIP.GXgKj5AjVi4svPpue5u5bAHaHa&pid=Api&P=0&h=180");left:60px;top:10px;}
+    
+}
+.shape16{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.oAIeK5EOxaqJMPBER0naggHaIP&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages16 5s infinite alternate;
+}
+@keyframes changingimages16{
+    25%{background-image: url("https://tse4.mm.bing.net/th?id=OIP.oAIeK5EOxaqJMPBER0naggHaIP&pid=Api&P=0&h=180");left:50px;top:20px;}
+    50%{background-image: url("https://tse4.mm.bing.net/th?id=OIP.PfC8YTkuKoceYDivqS5t7wHaHa&pid=Api&P=0&h=180");left:30px;top:40px;}
+    75%{background-image: url("https://www.bhphotovideo.com/images/images2000x2000/sony_srsbtv5_blk_bluetooth_wireless_speaker_system_922929.jpg");left:60px;top:10px;}
+    
+}
+.shape17{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://i5.walmartimages.com/asr/b3be20a8-994d-45ad-a5c3-c3ffb06f6505_1.d1eb7c67c26b9e8f343f1478864850f8.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages17 5s infinite alternate;
+}
+@keyframes changingimages17{
+    25%{background-image: url("https://i5.walmartimages.com/asr/b3be20a8-994d-45ad-a5c3-c3ffb06f6505_1.d1eb7c67c26b9e8f343f1478864850f8.jpeg");left:50px;top:20px;}
+    50%{background-image: url("https://tse1.mm.bing.net/th?id=OIP.XAu1Kc7Vqo1pTEG-2FlqlwHaE8&pid=Api&P=0&h=180");left:30px;top:40px;}
+    75%{background-image: url("https://i5.walmartimages.com/asr/141077d5-b1f3-42ed-81ae-50ab6c35d3d0_2.a11cf998160175f8206677b90d06b02c.jpeg?odnBg=FFFFFF");left:60px;top:10px;}
+    
+}
+.shape18{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.UJN3QC6ZzHVN4zE8vX0uRAHaEL&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages18 5s infinite alternate;
+}
+@keyframes changingimages18{
+    25%{background-image: url("https://tse4.mm.bing.net/th?id=OIP.UJN3QC6ZzHVN4zE8vX0uRAHaEL&pid=Api&P=0&h=180");left:50px;top:20px;}
+    50%{background-image: url("https://tse2.mm.bing.net/th?id=OIP.kauSqEJ2ffOG5JHA4TzuZgHaEK&pid=Api&P=0&h=180");left:30px;top:40px;}
+    75%{background-image: url("https://3.bp.blogspot.com/-tblgKi5EWdI/W9Sf25pvWtI/AAAAAAAAASI/C_ucuRJPqwgJNKL4lwSaIptD45gA3yPVgCLcBGAs/s1600/levitating-bluetooth-speaker-india-usa-uk-canada-australia-poland.jpg");left:60px;top:10px;}
+    
+}
+.shape19{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/wireless/detail-page/samsung-galaxynexus-veriz-angle-lg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages19 5s infinite alternate;
+}
+@keyframes changingimages19{
+    25%{background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/wireless/detail-page/samsung-galaxynexus-veriz-angle-lg.jpg");left:50px;top:20px;}
+    50%{background-image: url("https://www.lifewire.com/thmb/fmGz1P-wjwTbA6lHqI_eA42JKQs=/fit-in/1159x1500/filters:no_upscale():max_bytes(150000):strip_icc()/719PQwKh2AL._AC_SL1500_-c3c1145c5466424a82148535df5bbee5.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://tse1.mm.bing.net/th?id=OIP.zSQKF8riv_o9sNYl2vCgiAHaFj&pid=Api&P=0&h=180");left:60px;top:10px;}
+    
+}
+.shape20{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.ZRxYrbvMAKaaNbY-doxu-AHaHa&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages20 5s infinite alternate;
+}
+@keyframes changingimages20{
+    25%{background-image: url("https://tse3.mm.bing.net/th?id=OIP.ZRxYrbvMAKaaNbY-doxu-AHaHa&pid=Api&P=0&h=180");left:50px;top:20px;}
+    50%{background-image: url("https://tse3.mm.bing.net/th?id=OIP.WNbukcljTlqkhK3XZFvm2AHaHa&pid=Api&P=0&h=180");left:30px;top:40px;}
+    75%{background-image: url("https://i.pinimg.com/originals/ae/e3/b0/aee3b0dcb4795ec24305c58d12e8232c.jpg");left:60px;top:10px;}
+    
+}
+.shape21{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.XYMLmRFj1CkjoCFfHzthQAHaFj&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages21 5s infinite alternate;
+}
+@keyframes changingimages21{
+    25%{background-image: url("https://tse4.mm.bing.net/th?id=OIP.XYMLmRFj1CkjoCFfHzthQAHaFj&pid=Api&P=0&h=180");left:50px;top:20px;}
+    50%{background-image: url("https://1.bp.blogspot.com/-YhMKGxsiaBM/YNwZmHI0nwI/AAAAAAAAAAQ/RcFqSIRWpXgyvh_h5OT0mGOlnSw2FqfxACLcBGAsYHQ/s1500/81im8ZLf2lL._AC_SL1500_.jpg");left:30px;top:40px;}
+    75%{background-image: url("https://images-na.ssl-images-amazon.com/images/I/718BOEXveDL._AC_SL1490_.jpg");left:60px;top:10px;}
+    
+}
+.shape22{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://i5.walmartimages.com/asr/82692470-be2d-4a66-b092-a5559c5239e4.f14e04f33fc08852231b487d01e7b38b.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages22 5s infinite alternate;
+}
+@keyframes changingimages22{
+    25%{background-image: url("https://i5.walmartimages.com/asr/82692470-be2d-4a66-b092-a5559c5239e4.f14e04f33fc08852231b487d01e7b38b.jpeg");left:50px;top:20px;}
+    50%{background-image: url("https://i5.walmartimages.com/asr/7db396f7-6cf4-4981-962c-1c9bd9865feb.7bb7b5f313e0b72496249a94f9cb7d90.jpeg");left:30px;top:40px;}
+    75%{background-image: url("http://3.bp.blogspot.com/-XjutfYhW3wc/UZRo-qiK4KI/AAAAAAAADsY/pNl1nZetyXk/s1600/Air+Conditioner+Split.jpg");left:60px;top:10px;}
+    
+}
+.shape23{
+    width:150px;
+    height:150px;
+    border-radius:20px;
+    border:3px solid black;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.bmOTn0VuxVWgOm7rNK7wYwHaFj&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:changingimages23 5s infinite alternate;
+}
+@keyframes changingimages23{
+    25%{background-image: url("https://tse3.mm.bing.net/th?id=OIP.bmOTn0VuxVWgOm7rNK7wYwHaFj&pid=Api&P=0&h=180");left:50px;top:20px;}
+    50%{background-image: url("https://tse3.mm.bing.net/th?id=OIP.bmOTn0VuxVWgOm7rNK7wYwHaFj&pid=Api&P=0&h=180");left:30px;top:40px;}
+    75%{background-image: url("https://tse4.mm.bing.net/th?id=OIP.kbZxqaM5c2c3H8Vek7IoEQHaF_&pid=Api&P=0&h=180");left:60px;top:10px;}
+    
+}
+.box{
+    
+        width:auto;
+        height:600px;
+        border:none;
+    background-image: url("https://img.freepik.com/free-photo/girl-yellow-wall-with-shopping-bags_1157-34348.jpg?w=996&t=st=1707209710~exp=1707210310~hmac=da424a3bbb7823fc71984ecb1cf119e83492232f72b1e1132f3589f46e4d4c7c");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.box1{
+    
+        width:auto;
+        height:600px;
+        border:none;
+    background-image: url("https://assets.thehansindia.com/h-upload/2021/09/29/1600x960_1114656-ajio.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.box2{
+    
+        width:auto;
+        height:200px;
+        border:none;
+    background-color: gray;
+
+}

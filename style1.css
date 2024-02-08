@@ -1,0 +1,12 @@
+.logo{
+    width:100px;
+    height:70px;
+    border-radius:20px;
+}
+body{
+    background-color: #05fbed;
+}
+input:hover{
+    background-color: coral;
+    
+}

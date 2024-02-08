@@ -1,0 +1,208 @@
+
+.first{
+    
+    position: relative;
+    top:0px;
+    left: auto;
+    height: 700px;
+    background-color: aqua;
+    width: 350px;
+    overflow-y: scroll;
+       
+}
+
+
+.mobiles{
+    position: relative;
+    left:120px;
+    color: brown;
+}
+.elec1,.elec2,.elec3,.elec4{
+    position: relative;
+    left:10px ;
+    width: 180px;
+    height: 180px;
+}
+.iphn,.redphn,.realphn,.poco{
+    position: relative;
+    left:20px;
+
+}
+.q1,.num{
+    position: relative;
+    left: 70px;
+}
+
+.q2,.num1{
+    position: relative;
+    left: 70px;
+}
+.q3,.num2{
+    position: relative;
+    left: 70px;
+}
+.q4,.num3{
+    position: relative;
+    left: 70px;
+}
+
+.Second{
+    
+    position: relative;
+    top:-700px;
+    left: 350px;
+    height: 700px;
+    background-color:yellow;
+    width: 350px;
+    overflow-y: scroll;
+    
+    
+}
+.watches{
+    position: relative;
+    left:120px;
+    color: brown;
+}
+.watch1,.watch2,.watch3,.watch4{
+    position: relative;
+    left:20px ;
+    width: 180px;
+    height: 180px;
+}
+.apple,.casio,.titan,.fastrack{
+    position: relative;
+    left:20px;
+
+}
+.q5,.num4{
+    position: relative;
+    left: 7cqb;
+}
+
+.q6,.num5{
+    position: relative;
+    left: 70px;
+}
+.q7,.num6{
+    position: relative;
+    left: 70px;
+}
+.q8,.num7{
+    position: relative;
+    left: 70px;
+}
+.third{
+    
+    position: relative;
+    top:-1400px;
+    left: 700px;
+    height: 700px;
+    background-color:cornflowerblue;
+    width: 350px;
+    overflow-y: scroll;
+    
+    
+}
+.iron{
+    position: relative;
+    left:120px;
+    color: brown;
+}
+.iron1,.iron2,.iron3,.iron4{
+    position: relative;
+    left:20px ;
+    width: 180px;
+    height: 180px;
+}
+.bajaj,.wipro,.usha,.havells{
+    position: relative;
+    left:20px;
+
+}
+.q9,.num8{
+    position: relative;
+    left: 7cqb;
+}
+
+.q10,.num9{
+    position: relative;
+    left: 70px;
+}
+.q11,.num10{
+    position: relative;
+    left: 70px;
+}
+.q12,.num11{
+    position: relative;
+    left: 70px;
+}
+.fourth{
+    
+    position: relative;
+    top:-2100px;
+    left: 1050px;
+    height: 700px;
+    background-color:pink;
+    width: 350px;
+    overflow-y: scroll;
+    
+    
+}
+.ac{
+    position: relative;
+    left:120px;
+    color: brown;
+}
+.ac1,.ac2,.ac3,.ac4{
+    position: relative;
+    left:20px ;
+    width: 180px;
+    height: 180px;
+}
+.lg,.sam,.daikin,.voltas{
+    position: relative;
+    left:20px;
+
+}
+.q13,.num12{
+    position: relative;
+    left: 7cqb;
+}
+
+.q14,.num13{
+    position: relative;
+    left: 70px;
+}
+.q15,.num14{
+    position: relative;
+    left: 70px;
+}
+.q16,.num15{
+    position: relative;
+    left: 70px;
+}
+
+.foot{
+    background-color: antiquewhite;
+    border: none;
+    width: auto;
+    height:70px;
+    position: relative;
+    top:-2100px;
+    
+}
+.order{
+    position: relative;
+    left: 1200px;
+    background-color:green;
+}
+
+
+.cancel{
+    position: relative;
+    left: 1250px;
+    background-color:red ;
+}
+body{
+    background-color: aqua;
+}

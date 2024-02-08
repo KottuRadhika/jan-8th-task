@@ -1,0 +1,38 @@
+.fa{
+    padding:20px;
+    font-size:30px;
+    width:70px;
+    text-align:center;
+    margin:8px 4px;
+    border-radius:100%;
+    text-decoration:none;
+}
+.fa:hover{
+    opacity:0.5;
+}
+
+.fa-instagram{
+    background-color:#B82F5E;
+    color:white;
+}
+.fa-linkedin{
+    background-color:#1D4C94 ;
+    color:white;
+}
+.fa-whatsapp{
+    background-color:#2C7330 ;
+    color:white;
+}
+.fa-telegram{
+    background-color:#2789D8 ;
+    color:white;
+}
+.fa-twitter{
+    background-color:#2496A2;
+    color:white;
+}
+body{
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.eKDp8qgtp7EWucmud9p_TQHaFj&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

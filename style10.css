@@ -1,0 +1,15 @@
+body{
+    background-color: azure;
+}
+.box{
+    width:70%;
+    height:800px;;
+    margin-left: 220px;
+    background-color:cornsilk;
+}
+.box1{
+    width:70%;
+    height:800px;;
+    margin-left: 220px;
+    background-color:aliceblue;
+}
